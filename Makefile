@@ -1,4 +1,4 @@
 #!/bin/bash
 
 default:
-	echo "hello world"
+	echo "hello world "
