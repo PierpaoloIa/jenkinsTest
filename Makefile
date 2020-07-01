@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 default:
   num=$(date | md5sum | head -c 1 | xxd -p)
