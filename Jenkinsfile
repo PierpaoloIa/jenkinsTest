@@ -6,7 +6,7 @@ pipeline {
         sh '''echo \'test\'
 
 
-
+   
 
 sh \'make\''''
       }
